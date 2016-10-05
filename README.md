@@ -1,5 +1,9 @@
 # csv-mongo
 
+
+## Import csv and store to mongodb 
+
+
 # For Run 
 
 ## In ubuntu terminal  
@@ -12,5 +16,3 @@
 
 ## $ node index.js
 
-
-## Import csv and store to mongodb
