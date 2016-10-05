@@ -1,13 +1,15 @@
 # csv-mongo
 
 # For Run 
+
+## In ubuntu terminal  
+
 ### npm install csv-parser
 
 ### npm install fs
 
 ### npm install
 
-## In ubuntu terminal 
 ## $ node index.js
 
 
