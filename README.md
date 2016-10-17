@@ -1,4 +1,4 @@
-# csv-mongo
+# csv-mongo-import
 
 
 ## Import csv and store to mongodb 
